@@ -8,10 +8,7 @@ The starter packages:
 - example-app (plain CRA, linked to example-lib)
 
 The library tooling:
-- Webpack 4
-- Babel
-- Prettier
-- Isomorphic Style Loader
+- [react-lib-scripts](https://github.com/antonybudianto/react-lib-scripts)
 
 ## How to use
 1. Clone this repo
