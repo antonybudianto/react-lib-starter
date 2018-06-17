@@ -1,0 +1,5 @@
+:local(.my-hello-view) {
+  background-color: lightblue;
+  border: 1px solid gray;
+  padding: 5px;
+}
