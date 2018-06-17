@@ -1,5 +1,13 @@
 {
-  "presets": ["env", "react-app"],
+  "presets": [
+    [
+      "env",
+      {
+        "modules": false
+      }
+    ],
+    "react-app"
+  ],
   "env": {
     "production": {
       "plugins": ["transform-react-remove-prop-types"]
