@@ -10,6 +10,8 @@ The starter packages:
 The library tooling:
 - Webpack 4
 - Babel
+- Prettier
+- Isomorphic Style Loader
 
 ## How to use
 1. Clone this repo
