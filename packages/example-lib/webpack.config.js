@@ -26,7 +26,7 @@ const config = {
         },
       },
       {
-        test: /\.s?[ac]ss$/,
+        test: /\.css$/,
         use: [
           'iso-morphic-style-loader',
           {
