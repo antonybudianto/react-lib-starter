@@ -3324,9 +3324,9 @@ react-dom@^16.4.1:
     object-assign "^4.1.1"
     prop-types "^15.6.0"
 
-react-lib-scripts@^0.0.5:
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/react-lib-scripts/-/react-lib-scripts-0.0.5.tgz#210248dd474b4dfb98db8f2d81771c879b294195"
+react-lib-scripts@^0.0.12:
+  version "0.0.12"
+  resolved "https://registry.yarnpkg.com/react-lib-scripts/-/react-lib-scripts-0.0.12.tgz#c56fdf012514ad87af1af8d2ec4c40f96497ac98"
   dependencies:
     "@oclif/command" "^1"
     "@oclif/config" "^1"
