@@ -22,6 +22,8 @@ The library tooling:
    ```sh
    npm run bootstrap
    ```
+
+   This will bootstrap and link between app and lib
 4. Now, it's ready!
 
 ## Dev flow
