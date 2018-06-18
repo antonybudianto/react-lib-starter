@@ -1,8 +1,12 @@
 :local(.hello-local) {
-  background-color: lightblue;
   border: 1px solid gray;
   padding: 5px;
+  padding-top: 40px;
   background: url('./big.jpg');
+  background-position: 0 -150px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
 }
 
 :local(.hello-img) {
@@ -11,5 +15,5 @@
 }
 
 .hello-global {
-  color: blueviolet;
+  color: white;
 }
