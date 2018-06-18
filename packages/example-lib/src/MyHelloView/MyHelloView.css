@@ -2,6 +2,12 @@
   background-color: lightblue;
   border: 1px solid gray;
   padding: 5px;
+  background: url('./big.jpg');
+}
+
+:local(.hello-img) {
+  width: 200px;
+  height: 50px;
 }
 
 .hello-global {
