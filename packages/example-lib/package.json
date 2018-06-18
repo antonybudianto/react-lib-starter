@@ -40,5 +40,8 @@
     "react-lib-scripts": "^0.0.13"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "classnames": "^2.2.6"
+  }
 }

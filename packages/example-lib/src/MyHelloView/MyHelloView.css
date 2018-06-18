@@ -1,5 +1,9 @@
-:local(.my-hello-view) {
+:local(.hello-local) {
   background-color: lightblue;
   border: 1px solid gray;
   padding: 5px;
+}
+
+.hello-global {
+  color: blueviolet;
 }
