@@ -15,7 +15,10 @@ class App extends Component {
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
-        <div>
+        <div style={{
+          display: 'flex',
+          justifyContent: 'center'
+        }}>
           <MyHelloView>
             Content from app!
           </MyHelloView>
